@@ -1,0 +1,24 @@
+[
+  {
+    "company": "Example Corp",
+    "date": "2025-06-20",
+    "btc": 12.5,
+    "fiat": 850000,
+    "url": "https://example.com/news/bitcoin-purchase",
+    "country": "USA",
+    "sector": "Tech",
+    "method": "Direct Purchase",
+    "financing": "Internal Funds"
+  },
+  {
+    "company": "Crypto Holdings Inc.",
+    "date": "2025-06-20",
+    "btc": 4.0,
+    "fiat": 270000,
+    "url": "https://crypto.com/announcements/btc-reserve",
+    "country": "Canada",
+    "sector": "Finance",
+    "method": "Treasury Allocation",
+    "financing": "Debt Raise"
+  }
+]
