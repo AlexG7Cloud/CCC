@@ -1,24 +1,57 @@
 [
   {
-    "company": "Example Corp",
+    "company": "KindlyMD",
     "date": "2025-06-20",
-    "btc": 12.5,
-    "fiat": 850000,
-    "url": "https://example.com/news/bitcoin-purchase",
+    "btc": 1700,
+    "fiat": 51500000,
+    "url": "https://www.coindesk.com/markets/2025/06/20/kindlymd-raises-another-515m-for-bitcoin-treasury-strategy?utm_source=chatgpt.com",
     "country": "USA",
-    "sector": "Tech",
-    "method": "Direct Purchase",
-    "financing": "Internal Funds"
+    "sector": "Healthcare",
+    "method": "Capital Raise",
+    "financing": "Equity Raise"
   },
   {
-    "company": "Crypto Holdings Inc.",
+    "company": "Blockchain Group",
     "date": "2025-06-20",
-    "btc": 4.0,
-    "fiat": 270000,
-    "url": "https://crypto.com/announcements/btc-reserve",
-    "country": "Canada",
+    "btc": 182,
+    "fiat": 20000000,
+    "url": "https://cointelegraph.com/news/blockchain-group-adds-20m-bitcoin-holdings-now-over-170m?utm_source=chatgpt.com",
+    "country": "France",
     "sector": "Finance",
-    "method": "Treasury Allocation",
+    "method": "Direct Purchase",
+    "financing": "Treasury Allocation"
+  },
+  {
+    "company": "Belgravia Hartford",
+    "date": "2025-06-20",
+    "btc": 30,
+    "fiat": 750000,
+    "url": "https://www.businesswire.com/news/home/20250620059010/en/Belgravia-Hartford-Announces-Additional-Bitcoin-Purchases-and-Growing-Bitcoin-Treasury?utm_source=chatgpt.com",
+    "country": "USA",
+    "sector": "Financial Services",
+    "method": "Direct Purchase",
+    "financing": "Treasury Enhancement"
+  },
+  {
+    "company": "DDC Enterprise",
+    "date": "2025-06-19",
+    "btc": 210,
+    "fiat": 528000000,
+    "url": "https://www.businesswire.com/news/home/20250616739727/en/DDC-Enterprise-Announces-Up-to-%24528-Million-Raise-to-Accelerate-Bitcoin-Treasury-Strategy?utm_source=chatgpt.com",
+    "country": "USA",
+    "sector": "Technology",
+    "method": "Capital Raise",
+    "financing": "Public Offering"
+  },
+  {
+    "company": "Fold Holdings",
+    "date": "2025-06-17",
+    "btc": 50,
+    "fiat": 250000000,
+    "url": "https://www.globenewswire.com/news-release/2025/06/17/3100641/0/en/Fold-Secures-250-Million-Equity-Purchase-Facility-Intended-to-Expand-Bitcoin-Treasury-Holdings.html?utm_source=chatgpt.com",
+    "country": "USA",
+    "sector": "FinTech",
+    "method": "Equity Facility",
     "financing": "Debt Raise"
   }
 ]
