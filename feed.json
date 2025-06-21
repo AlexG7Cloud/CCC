@@ -8,40 +8,10 @@
     "country": "USA",
     "sector": "Healthcare",
     "method": "Capital Raise",
-    "financing": "Equity Raise"
-  },
-  {
-    "company": "Blockchain Group",
-    "date": "2025-06-20",
-    "btc": 182,
-    "fiat": 20000000,
-    "url": "https://cointelegraph.com/news/blockchain-group-adds-20m-bitcoin-holdings-now-over-170m?utm_source=chatgpt.com",
-    "country": "France",
-    "sector": "Finance",
-    "method": "Direct Purchase",
-    "financing": "Treasury Allocation"
-  },
-  {
-    "company": "Belgravia Hartford",
-    "date": "2025-06-20",
-    "btc": 30,
-    "fiat": 750000,
-    "url": "https://www.businesswire.com/news/home/20250620059010/en/Belgravia-Hartford-Announces-Additional-Bitcoin-Purchases-and-Growing-Bitcoin-Treasury?utm_source=chatgpt.com",
-    "country": "USA",
-    "sector": "Financial Services",
-    "method": "Direct Purchase",
-    "financing": "Treasury Enhancement"
-  },
-  {
-    "company": "DDC Enterprise",
-    "date": "2025-06-19",
-    "btc": 210,
-    "fiat": 528000000,
-    "url": "https://www.businesswire.com/news/home/20250616739727/en/DDC-Enterprise-Announces-Up-to-%24528-Million-Raise-to-Accelerate-Bitcoin-Treasury-Strategy?utm_source=chatgpt.com",
-    "country": "USA",
-    "sector": "Technology",
-    "method": "Capital Raise",
-    "financing": "Public Offering"
+    "financing": "Equity Raise",
+    "isPubliclyTraded": "Yes",
+    "sharePrice": 50.25,
+    "stockExchange": "NASDAQ"
   },
   {
     "company": "Fold Holdings",
@@ -52,6 +22,65 @@
     "country": "USA",
     "sector": "FinTech",
     "method": "Equity Facility",
-    "financing": "Debt Raise"
+    "financing": "Debt Raise",
+    "isPubliclyTraded": "Yes",
+    "sharePrice": 12.8,
+    "stockExchange": "NYSE"
+  },
+  {
+    "company": "Belgravia Hartford",
+    "date": "2025-06-20",
+    "btc": 1.5316,
+    "fiat": 160842.59,
+    "url": "https://www.businesswire.com/news/home/20250620059010/en/Belgravia-Hartford-Announces-Additional-Bitcoin-Purchases-and-Growing-Bitcoin-Treasury?utm_source=chatgpt.com",
+    "country": "USA",
+    "sector": "Financial Services",
+    "method": "Direct Purchase",
+    "financing": "Treasury Enhancement",
+    "isPubliclyTraded": "No",
+    "sharePrice": "N/A",
+    "stockExchange": "N/A"
+  },
+  {
+    "company": "The Smarter Web Company",
+    "date": "2025-06-19",
+    "btc": 104.28,
+    "fiat": 10500000,
+    "url": "https://bitcoinmagazine.com/news/the-smarter-web-company-acquires-8-1m-in-bitcoin-for-treasury-holdings?utm_source=chatgpt.com",
+    "country": "USA",
+    "sector": "Tech",
+    "method": "Direct Purchase",
+    "financing": "Treasury Allocation",
+    "isPubliclyTraded": "Yes",
+    "sharePrice": 95.62,
+    "stockExchange": "NASDAQ"
+  },
+  {
+    "company": "Coinsilium Group Limited",
+    "date": "2025-06-20",
+    "btc": 10.2146,
+    "fiat": 1040000,
+    "url": "https://investing.com/news/company-news/coinsilium-adds-10-bitcoin-to-treasury-holdings-now-exceed-43-btc-93CH-4103477?utm_source=chatgpt.com",
+    "country": "UK",
+    "sector": "Blockchain",
+    "method": "Direct Purchase",
+    "financing": "Private Placement",
+    "isPubliclyTraded": "Yes",
+    "sharePrice": 3.74,
+    "stockExchange": "AIM (London Stock Exchange)"
+  },
+  {
+    "company": "Vault Ventures Plc",
+    "date": "2025-06-20",
+    "btc": 0.22,
+    "fiat": 22982,
+    "url": "https://investegate.co.uk/announcement/rns/vault-ventures-plc--vult/11-year-plan-bitcoin-and-eth-purchase/8939473?utm_source=chatgpt.com",
+    "country": "UK",
+    "sector": "Finance",
+    "method": "Equity Facility",
+    "financing": "Strategic Capital Raise",
+    "isPubliclyTraded": "Yes",
+    "sharePrice": 0.98,
+    "stockExchange": "AIM (London Stock Exchange)"
   }
 ]
